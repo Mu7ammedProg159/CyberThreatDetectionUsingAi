@@ -1,3 +1,5 @@
+# Cyber Threat Detection Using Artificial Intelligence 
+
 
 Student Names:
 
@@ -12,7 +14,9 @@ Hashem Baroom       2037062
 In response to the accelerating sophistication of cyber threats, this research endeavors to enhance cybersecurity through the implementation of artificial intelligence (AI) techniques, specifically focusing on the domain of anomaly detection. 
 The project’s primary objective is to develop strong AI models capable of effectively identifying unusual patterns and potential cyber threats within network logs.
 
-<img src="https://imgur.com/a/PH9eOXV)"/>
+![CS499_G#9_Poster](https://github.com/user-attachments/assets/42e79fe0-d2be-4954-968b-dadf5336b8a9)
+
+------------------------------------------------------
 
 The dataset used on the code can be downloaded through this link: https://drive.google.com/file/d/105OEx5gLW6Pjws1HLLr1CgCjhX-gSUH1/view?usp=drive_link (43 MB Rar file). 
 
@@ -24,7 +28,7 @@ You can download training dump files for deep learning and machine learning wher
 
 Python Version: 3.11 (base)
 
-Pre-requisites: 
+# Pre-requisites: 
 You need to install all libraries and tools needed and they are as follows: 
  - Jupyter from Anaconda Navigator: https://www.anaconda.com/products/navigator , you can use Visual Studio Code with jupyter extension but that requires installation of all libraries.
 
@@ -43,19 +47,20 @@ Libraries needed:
 
  Please install all these libraries to be able to run the code.
 
+------------------------------------------------------
 
-Files explanation:
+# Files explanation:
  - Threat Detection.ipynb is the main part for prediction. 
  - ModelTraining.ipynb is the training file for all models with save functionality.
  - preprocessing_data.py is a python file that has function that preprocess the data of same structure automatically.
 
-Folders Explanation:
+# Folders Explanation:
  - SplitDatasets folder, contains all the splits that are going to be used for training purposes.
  - TrainingDumpData folder, contains all the files for loading the models. It consists of .joblib and .weights which are the data of training model.
  - functions folder, contains the python files that are used as functions.
  - RealDataset folder, contains all the datasets used for training and testing purposes.
 
- How to run?:
+# How to run?:
 
  To run the program you need a dataset first of same structure you download the same dataset used through the link given previously.
 
@@ -66,7 +71,7 @@ Folders Explanation:
 
  3- Continue running ThreatDetection.ipynb till the end to see the result and analysis. (To understand what the analysis showcases, please refer to the final repor / documentation file).
 
- Note: In case of adding training dump files, you are only required to run ThreatDetection.ipynb.
+Note: In case of adding training dump files, you are only required to run ThreatDetection.ipynb.
 
 You can check The Final Report of the Project: "Full Documentation.pdf".
 
