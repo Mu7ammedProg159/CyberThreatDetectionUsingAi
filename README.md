@@ -5,9 +5,15 @@ Student Names:
 
 Muhammed Joharji    2037729
 
+https://www.linkedin.com/in/muhammed-joharji
+
 Muhannad Al-Jaddawi 2036459
 
+https://www.linkedin.com/in/muhannad-al-jaddawi-67266a255
+
 Hashem Baroom       2037062
+
+https://www.linkedin.com/in/hashim-baroom-948aa12ba/
 
 ------------------------------------------------------
 
