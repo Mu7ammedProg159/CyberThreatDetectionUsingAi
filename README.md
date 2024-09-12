@@ -1,10 +1,18 @@
 
 Student Names:
+
 Muhammed Joharji    2037729
+
 Muhannad Al-Jaddawi 2036459
+
 Hashem Baroom       2037062
 
-This is the code for Cyber Threat Detection Using Artificial Intelligence project. 
+------------------------------------------------------
+
+In response to the accelerating sophistication of cyber threats, this research endeavors to enhance cybersecurity through the implementation of artificial intelligence (AI) techniques, specifically focusing on the domain of anomaly detection. 
+The project’s primary objective is to develop strong AI models capable of effectively identifying unusual patterns and potential cyber threats within network logs.
+
+<img src="https://imgur.com/a/PH9eOXV)"/>
 
 The dataset used on the code can be downloaded through this link: https://drive.google.com/file/d/105OEx5gLW6Pjws1HLLr1CgCjhX-gSUH1/view?usp=drive_link (43 MB Rar file). 
 
